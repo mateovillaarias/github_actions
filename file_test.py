@@ -16,6 +16,6 @@ def test_calc_multiply():
     assert output == 8
 
 def test_coucou():
-  # Fonction test si la résultat renvoie 'hello'
+  # Fonction test si la résultat renvoie 'hell'
     output='hello'
     assert output == 'hello'
